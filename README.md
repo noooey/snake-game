@@ -1,3 +1,3 @@
-## cpp_project
-# snake game
+## 2021-1학기 C++프로그래밍 기말프로젝트
+# SNAKE GAME
 #### 20203065 20203107

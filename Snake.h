@@ -4,8 +4,6 @@ typedef struct SNAKE {
   int length = 3;    // snake 길이, 최소 3
   int head = KEY_LEFT;       // head방향
 
-  int i = 0;  // 확인용 임시
-
   int ch = KEY_LEFT;    // 방향키의 방향
   clock_t standTime;   // 기준 시간
   clock_t currTime;   // 현재 시간
